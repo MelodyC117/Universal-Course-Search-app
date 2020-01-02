@@ -1,0 +1,18 @@
+﻿Course_ID,School_Num,Course_Num,Course_Name,Focus_ID,Course_Link
+101,UB1,CSE115,Introduction to Computer Science I,f001,https://catalog.buffalo.edu/courses/?abbr=CSE&num=115
+102,UB1,CSE116,Introduction to Computer Science II,f008,https://catalog.buffalo.edu/courses/?abbr=CSE&num=116
+103,UR1,CSC440,Data Mining,f009,https://www.cs.rochester.edu/courses/240/Fall2017.html
+104,UR1,CSC172,Data Structure and Algorithms,f002,https://www.cs.rochester.edu/courses/fall.php
+105,UR1,CSC482,Design and Efficient Analysis of Algorithms,f003,https://www.cs.rochester.edu/~stefanko/Teaching/19CS282/
+106,MIT1,MIT6.829,Computer Networks,f005,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/
+107,MIT1,MIT6.828,Operating System Engineering,f006,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/index.htm
+108,UIUC1,CS 498 RK1,The Art of Web Programming,f004,https://cs.illinois.edu/courses/profile/CS498RK1
+109,SF1,CS145,Introduction to Databases,f010,https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=CS%20145:%20Introduction%20to%20Databases&academicYear=20152016
+110,MIT1,MIT6.0001,Introduction to Computer Science and Programming,f001,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+111,MIT1,MIT6.001,Structure and Interpretation of Computer Programs,f011,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/syllabus/
+112,MIT1,MIT6.005,Software Construction,f012,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/
+113,MIT1,MIT6.006,Introduction to Algorithms,f003,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+114,MIT1,MIT6.034,Artificial Intelligence,f013,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+115,MIT1,MIT6.096,Introduction to C++,f008,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/
+116,MIT1,MIT6.171,Software Engineering for Web Applications,f012,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-171-software-engineering-for-web-applications-fall-2003/
+117,UB1,CSE250,Data Structures,f002,https://catalog.buffalo.edu/courses/?abbr=CSE&num=250

@@ -1,0 +1,46 @@
+﻿Course_ID,Topic_ID,Topic
+101,t001,String and Array
+101,t002,Object Oriented Programming
+101,t003,Web Application
+102,t004,GUI development
+102,t005,Game Design
+102,t002,Object Oriented Programming
+103,t006,Machine Learning
+104,t001,String and Array
+104,t002,Object Oriented Programming
+104,t006,Tree
+104,t007,Linked List
+104,t023,Stack and Queue
+104,t024,Hash Table
+105,t008,Dynamic Programming
+105,t009,Graph
+105,t010,Linear Programming
+106,t011,Network Infrastructure
+106,t012,Mobile Networking
+106,t013,Unicast and Multicast Routing
+107,t014,Virtual Memory
+107,t015,Threads
+107,t016,Kernels
+108,t003,Web Application
+108,t004,GUI development
+109,t017,Database Design
+110,t001,String and Array
+110,t002,Object Oriented Programming
+111,t018,Language Design
+111,t019,Data Abstractions
+111,t002,Object Oriented Programming
+112,t020,Concurrency
+112,t021,Parsing
+113,t008,Dynamic Programming
+113,t009,Graph
+114,t006,Machine Learning
+114,t005,Game Design
+114,t009,Graph
+115,t001,String and Array
+115,t002,Object Oriented Programming
+116,t020,Concurrency
+116,t022,Software Modularity
+117,t006,Tree
+117,t007,Linked List
+117,t023,Stack and Queue
+117,t024,Hash Table

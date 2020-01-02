@@ -1,0 +1,29 @@
+AUTHOR: Melody Chen | URID: 31620871
+========================================================
+
+URL
+========================================================
+http://betaweb.csug.rochester.edu/~mchen73/soup.html
+========================================================
+
+Member Contribution
+========================================================
+Team Number: #17
+Melody Chen: 100%
+========================================================
+
+README
+===========================================================================
+x. The soup.html file is under the ~mchen73/Public_html directoary;
+x. create.sql file loads the relations into database mchen73_1;
+x. load.sql file loads data tuples from respective csvs;
+x. soup.html provides the interface of respective PHPs to show each table;
+
+LIST OF RELEVANT FILES
+  1. create.sql
+  2. load.sql
+  3. csv (course, school, focus, topic, tools)
+  4. soup.html 
+  5. PHP (show_courses, show_school, show_focus, show_topic, show_tools)
+===========================================================================
+

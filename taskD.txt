@@ -1,0 +1,29 @@
+AUTHOR: Melody Chen | URID: 31620871
+==========================================================
+
+URL
+==========================================================
+http://betaweb.csug.rochester.edu/~mchen73/interface.html
+==========================================================
+
+Member Contribution
+========================================================
+Team Number: #17
+Melody Chen: 100%
+========================================================
+
+README
+===========================================================================
+x. The interface.html file is under the ~mchen73/Public_html directoary;
+x. Interface ONE performs the course search based on user input;
+x. Interface TWO performs the course search based on selection of areas;
+
+LIST OF RELEVANT FILES
+  1. interface.html 
+  2. PHP (find_courses, lookup)
+
+Disclaimer - since I have included in the project 1 milestone 1 that my
+databases will serve the primary purpose of course search, I do not think
+allowing user insert / delete or load data file are appropriate for this
+application. Therefore, two types of search methods have been provided.
+===========================================================================
